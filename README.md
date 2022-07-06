@@ -1,5 +1,10 @@
 Demo Video Uploaded on YouTube- https://www.youtube.com/watch?v=sKt2Psbz3rI
 
+![2](https://user-images.githubusercontent.com/71061738/177624672-be51abd1-f0ba-406b-a99d-06694f5d2332.png)
+![1](https://user-images.githubusercontent.com/71061738/177624765-ab39b2cf-296c-49a5-af61-fb03d38b0771.png)
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
